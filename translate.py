@@ -20,8 +20,8 @@ root.title("번역기")
 root.geometry("800x600+150+150")
 root.resizable(False, False)
 
-client_id = "MOCJE8H1THkxUzp4_Ice"
-client_secret = "QESJXRcGNX"
+client_id = "Client ID"
+client_secret = "Client Secret"
 url = "https://openapi.naver.com/v1/papago/n2mt"
 headers = {"X-Naver-Client-Id" :client_id, "X-Naver-Client-Secret":client_secret}
 
